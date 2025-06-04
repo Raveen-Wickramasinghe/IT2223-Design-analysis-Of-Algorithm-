@@ -1,0 +1,10 @@
+fprintf("Original Array: ");
+disp(arr);
+arr = [74, 2, 36, 89, 5, 12];
+
+function sorted = insertionSort(arr)
+    for i = 2 : length(arr)
+           j = i - 1;
+           if j > i 
+    end
+end
